@@ -13976,7 +13976,7 @@ html.boxed .slider-container {
 	line-height: 28px;
 	width: 28px;
 	text-align: center;
-	color: #333 !important;
+	/* color: #333 !important; */
 	text-decoration: none;
 	font-size: 12.8px;
 	font-size: 0.8rem;

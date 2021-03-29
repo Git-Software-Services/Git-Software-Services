@@ -1933,6 +1933,13 @@ html .alert-primary {
 	background-color: #0088CC;
 	border-color: #007ebd;
 	color: #FFF;
+
+	/* position: relative; */
+    /* padding: .75rem 1.25rem; */
+    margin-bottom: 0rem !important;
+    /* border: 1px solid transparent; */
+    border-radius: 0rem !important;
+	border-color: #0088CC;
 }
 
 html .alert-primary .alert-link {
